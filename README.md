@@ -8,7 +8,7 @@ This chatbot currently **does not work** because I don’t have access to a work
 If you have an API key, you can add it directly in the code.
 
 ## 🔗 Live Preview (UI Only)
-[🚀 Check Out Renuka Chatbot Here](https://renukachatbot1.ccbp.tech/)
+[🚀 Check Out Renuka Chatbot Here](renukachatbot1.ccbp.tech)
 
 ## 🛠 Technologies Used
 - OpenAI
